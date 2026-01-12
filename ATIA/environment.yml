@@ -315,4 +315,3 @@ dependencies:
       - werkzeug==2.3.7
       - wrapt==1.15.0
       - yarl==1.9.2
-prefix: /home/okoch/miniconda3/envs/hg_proj
